@@ -1,0 +1,131 @@
+body {
+    font-family: Papyrus, fantasy;
+    line-height: 1.6;
+    margin: 0;
+    text-align: center;
+
+ul {
+    list-style-type: none; ;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+}
+
+h1, h2 {
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 10px 0;
+}
+
+p {
+    margin: 10px 0;
+}
+
+img {
+    width: 100%;
+}
+
+}
+
+hr {
+    width : 13%;
+    border : 1px solid #e47813 ;
+}
+
+
+.intro {
+    margin-bottom: 0;
+    background-color: #e47813;
+    padding: 100px 100px 0 100px;
+}
+
+.intro h1 {
+    color: white;
+}
+
+.intro a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.img1 {
+    position: absolute;
+    top: 20px;
+    right: 300px;
+}
+
+.img2 {
+    position: absolute;
+}
+
+
+.profile {
+    text-align: left;
+    margin: 10px 25% 30px 25%;
+}
+
+.myimg {
+    width: 30%;
+    position: relative;
+    left: 35%;
+    border-radius: 50%;
+}
+
+.profile h1 {
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.profile h2 {
+    text-align: center;
+}
+
+.skill-row {
+    text-align: left;
+    margin: 10px 25% 10px 25%;
+}
+
+
+.iconimg {
+    width: 13%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 10%;
+}
+
+
+.iconimg2 {
+    width: 13%;
+    float: right;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.contact-me {
+    margin: 10px 25% 10px 25%;
+}
+
+.btn {
+    border: 1px solid #e47813;
+    color: #fff;
+    font-size: 13px;
+    padding: 15px;
+    background-color: #e47813;
+    border-radius: 13px;
+}
+
+.bottom-container {
+    background-color: #e47813;
+    margin-bottom: 0;
+    padding: 3%;
+    color: #fff;
+}
+
+.bottom-container a{
+    text-decoration: none;
+    color: #fff;
+}
